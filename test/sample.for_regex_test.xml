@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE greeting [
+<!_ELEMENT greeting (#PCDATA)>
+]>
+<!-- declarations for <head> & <body> -->
+<greeting>Hello, world!</greeting>
+<![CDATA[<greeting>Hello, world!</greeting>]]> 
+<!as021·2:kl1221dj_aa asdasd />
